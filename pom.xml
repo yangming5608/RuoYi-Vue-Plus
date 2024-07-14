@@ -53,6 +53,8 @@
         <docker.namespace>ruoyi</docker.namespace>
         <docker.plugin.version>1.2.2</docker.plugin.version>
 
+        <mysql.version>8.0.30</mysql.version>
+
     </properties>
 
     <!-- 依赖声明 -->
